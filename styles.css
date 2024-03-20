@@ -1,0 +1,402 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+
+.b4 a{
+    color: black;
+    background-color:white;
+    border-radius: 20px;
+    padding: 10px;
+    padding-top: 7px;
+    margin-left: 8px;
+    font-size: 12px;
+    padding-left: 9px;
+    padding-right: 25px;
+    
+}
+.b3 a{
+    color: white;
+    background-color:rgb(106, 8, 198);
+    border-radius: 20px;
+    padding: 6px;
+    padding-top: 3px;
+    font-size: 12px;
+    padding-left: 9px;
+    padding-top: 7px;
+    
+   
+}
+
+.final{
+    display: flex;
+}
+
+.content img{
+    width: 20px;
+    position: relative;
+    left: 163px;
+    top: -20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.main{
+    margin: auto;
+    width: 40%;
+    height: 260px;
+    background-image: url("C:\\Users\\gunta\\Downloads\\WhatsApp Image 2024-03-20 at 3.42.17 PM.jpeg");
+    
+    background-position: center;
+}
+
+
+.img1 h1{
+    font-size: 18px;
+    
+}
+
+.img1 p{
+    font-size: 9px;
+    line-height: 0.9;
+}
+.content{
+    width: 47%;
+    height: 60px;
+    margin-top: 30px;
+}
+
+img {
+    width: 210px;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    
+}
+.aa{
+    display: flex;
+    justify-content: space-around;
+}
+.aa p a{
+    background-color: white;
+    color: black;
+    
+    padding: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 15px;
+    font-size: 13px;
+    
+    
+    
+    
+}
+.aa b{
+    margin-top: 23px;
+    margin-left: 10px;
+    font-size: 9px;
+}
+.aa img{
+    width: 24px;
+    height: 18px;
+    
+    position: relative;
+    left: 10px;
+    top: 21px;
+}
+.anchor a{
+    
+    
+    font-size: 11px;
+    color: white;
+    padding: 2px;
+    
+    
+    
+    
+}
+.anchor{
+    margin-top: 15px;
+    margin-left: 34px;
+    background-color: rgb(137, 78, 192);
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+
+.second{
+    text-align: center;
+    
+    width: 40%;
+    height: 160px;
+    margin: auto;
+    margin-top: 20px;
+}
+.second a{
+    border-radius: 20px;
+    background-color:rgb(215, 194, 236);
+    color: rgb(165, 78, 247);
+    font-size:12px;
+    padding: 10px;
+    padding-left: 17px;
+    padding-right: 17px;
+    
+    
+    
+}
+.local{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin: auto;
+    width: 40%;
+    height: 260px;
+    
+}
+
+.secure, .secure1, .secure2 {
+    width: 100px;
+
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    
+    text-align: center;
+    font-size: 5px;
+    margin: auto;
+}
+
+
+.secure img, .secure1 img, .secure2 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+.secure a, .secure1 a, .secure2 a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 5px;
+}
+.test{
+    text-align: center;
+    background-color:rgb(121, 3, 232);
+    padding-top: 60px;
+    color: white;
+    margin: auto;
+    width: 40%;
+    height: 260px;
+
+}
+.test a{
+    border-radius: 20px;
+    background-color:rgb(135, 67, 202);
+    color:white;
+    padding: 10px 35px;
+}
+.test img{
+    width: 20px;
+    padding-bottom: 1px;
+    border-radius: 50%;
+}
+.test p{
+    font-size: 6px;
+    
+}
+.trust img{
+    width: 10px;
+}
+.price1, .price2, .price3 {
+    width: 100px;
+    height: 220px;
+    
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 5px 10px;
+    font-size: 6px;
+
+    
+}
+.price{
+    display:flex;
+    justify-content: center;
+    margin: auto;
+    width: 40%;
+    height: 220px;
+
+    
+}
+.price3 a{
+    border-radius: 20px;
+    background-color:black;
+    color:white;
+    padding: 8px 12px;
+    margin-left: 15px;
+
+    
+
+    
+}
+.price2 a{
+    border-radius: 20px;
+    background-color:white;
+    color:black;
+    padding: 6px 10px;
+    margin-left: 15px;
+}
+.price1 img{
+    width: 90px;
+}
+.rajor{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 42%;
+    height: 260px;
+    padding-top: 70px;
+    
+}
+.rajor2{
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+    
+    
+    
+}
+.rajor3{
+    height: 170px;
+    width: 38%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 2px;
+    margin: 3px 6px;
+    
+    background-color: rgb(222, 221, 221);
+    margin-left: 12px;
+    font-size: 8px;
+    
+    
+}
+.rajor2 a{
+    line-height: 0.8;
+    display: block;
+    
+}
+.rajor1 img{
+    width: 24px;
+    
+    
+    
+    
+    position: relative;
+    left: -12px;
+    top: 29px;
+}
+.rajor1 h3{
+    font-size: 12px;
+    margin-bottom: -6px;
+    margin-left: 12px;
+}
+.rajor1 p{
+    font-size: 8px;
+    margin-bottom: -11px;
+    margin-left: 12px;
+}
+.rajor2 .page2{
+    margin-left: 12px;
+    padding-left: 5px;
+
+}
+.rajor3 .button1 button{
+    font-size: 5px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 6px;
+    border-radius: 20px;
+
+    
+    
+    
+    
+}
+.rajor3 .button2 button{
+    font-size: 5px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    padding-right: 23px;
+    padding-left: 23px;
+    padding-top: 8px;
+    border-radius: 20px;
+    margin-top: 14px;
+    
+    
+    
+    
+    
+}
+.button{
+    display: flex;
+}
+.rajor1{
+    font-size: 8px;
+    padding-right: 8px;
+    
+}
+
+.rajor3 a{
+    color: blueviolet;
+}
+.rajor3 .button2 img{
+    width: 15px;
+    
+    position: relative;
+    left: 24px;
+    top: 10px;
+    
+}
+.rajor3 .button1 img{
+    width: 13px;
+    
+    position: relative;
+    left: 20px;
+    top: 10px;
+    
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer p{
+    font-size: 7px;
+    margin-right: 65px;
+}
+.footer img{
+    position: relative;
+    left: 1px;
+    top: -228px;
+    
+}
+
+
